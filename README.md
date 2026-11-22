@@ -19,14 +19,12 @@
 
 ## 👋 About Me
 
-```text
-🔭 I'm currently working on KoreDB (a database engine built from scratch in Python) and a neural-network chess bot with MCTS
-👯 I'm looking to collaborate on quant/trading tools, dev tools, and anything AI + finance
-🤝 I'm looking for help with training ML models on large datasets and systems-level stuff like OS internals
-🌱 I'm currently learning quant finance, Python fundamentals, and low-level systems programming
-💬 Ask me about databases from scratch, WebRTC, full-stack deployments, or building fast with AI
-⚡ Fun fact: I've memorized pi to 200+ digits
-```
+- 🔭 I'm currently working on **KoreDB** (a database engine built from scratch in Python) and a neural-network chess bot with MCTS
+- 👯 I'm looking to collaborate on quant/trading tools, dev tools, and anything AI + finance
+- 🤝 I'm looking for help with training ML models on large datasets and systems-level stuff like OS internals
+- 🌱 I'm currently learning quant finance, Python fundamentals, and low-level systems programming
+- 💬 Ask me about databases from scratch, WebRTC, full-stack deployments, or building fast with AI
+- ⚡ Fun fact: I've memorized pi to 200+ digits
 
 ---
 
