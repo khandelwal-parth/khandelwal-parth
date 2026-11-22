@@ -26,6 +26,7 @@
 🌱 I'm currently learning quant finance, Python fundamentals, and low-level systems programming
 💬 Ask me about databases from scratch, WebRTC, full-stack deployments, or building fast with AI
 ⚡ Fun fact: I've memorized pi to 200+ digits
+```
 
 ---
 
@@ -160,10 +161,6 @@
 <br/>
 
 <img src="https://streak-stats.demolab.com/?user=khandelwal-parth&hide_border=true&background=0d1117&stroke=2ea66a&ring=86efac&fire=86efac&currStreakLabel=86efac&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="streak" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=khandelwal-parth&bg_color=0d1117&color=86efac&line=2ea66a&point=ffffff&area=true&hide_border=true" alt="activity graph" width="100%" />
 
 </div>
 
