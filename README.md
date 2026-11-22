@@ -26,9 +26,6 @@
 🌱 I'm currently learning quant finance, Python fundamentals, and low-level systems programming
 💬 Ask me about databases from scratch, WebRTC, full-stack deployments, or building fast with AI
 ⚡ Fun fact: I've memorized pi to 200+ digits
-```
-
-I'm a full-stack developer at **indiAtlas**, a travel-tech startup, and I spend the rest of my time building tools that fill gaps I notice. Every project I make is deployed live.
 
 ---
 
