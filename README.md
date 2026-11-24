@@ -5,7 +5,7 @@
 
 <!-- Typing animation -->
 <a href="https://github.com/khandelwal-parth">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=900&color=86EFAC&center=true&vCenter=true&width=700&lines=Building+databases+from+scratch+%F0%9F%97%84%EF%B8%8F;Full-Stack+Developer+%40+indiAtlas+%E2%9C%88%EF%B8%8F;Training+neural+nets+to+play+chess+%E2%99%9F%EF%B8%8F;Aspiring+quant+%7C+Python+%7C+ML+%7C+Systems+%F0%9F%93%88;Everything+I+build+ships+live+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=900&color=86EFAC&center=true&vCenter=true&width=700&lines=Building+databases+from+scratch+%F0%9F%97%84%EF%B8%8F;Training+neural+nets+to+play+chess+%E2%99%9F%EF%B8%8F;Aspiring+quant+%7C+Python+%7C+ML+%7C+Systems+%F0%9F%93%88;Everything+I+build+ships+live+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
