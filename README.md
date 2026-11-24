@@ -111,7 +111,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3>👁️ <a href="https://github.com/khandelwal-parth/Codepeek">CodePeek</a></h3>
-      A Chrome extension that uses Gemini Vision to understand what's on your screen.<br/><br/>
+      A function tool for extracting the source code behind any website<br/><br/>
       <img src="https://img.shields.io/badge/Chrome%20Extension-4285F4?style=flat-square&logo=googlechrome&logoColor=white" />
       <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
       <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" />
